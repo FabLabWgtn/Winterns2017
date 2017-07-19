@@ -11,8 +11,8 @@ body {
   }
 
 h1 {
-  color: #ffaa33;
-  font-size: 1.5em;
+  color: #fff;
+  font-size: 4em;
   }
 
 {% endhighlight %}
