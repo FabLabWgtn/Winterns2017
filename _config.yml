@@ -3,7 +3,8 @@ title: Emerald | A simple Jekyll blog
 description: "fabinterns"
 url: "https://fablabwgtn.github.io/team-name-here"
 author:
-  name: "Eleanor" "Tegan"
+  name: "Eleanor" 
+  name: "Tegan"
   email: ""
   url: ""
 
