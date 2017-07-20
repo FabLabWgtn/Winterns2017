@@ -7,7 +7,7 @@ Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to
 
 For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
 
-![Emerald](img/Emerald01.png "Emerald")
+![day1](img/day1.jpeg)
 
 ### Setup
 Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
