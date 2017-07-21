@@ -253,3 +253,13 @@ footer {
   text-align: center;
   padding: 0.6667em 0;
 }
+    
+    footer a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: 700;
+	&:hover,
+	&:focus {
+		color: darken($main-color, 5%);
+        }
+}
