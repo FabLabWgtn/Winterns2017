@@ -258,6 +258,7 @@ footer {
 	color: #fff;
 	text-decoration: none;
 	font-weight: 700;
+    padding-left: 1em;
 	&:hover,
 	&:focus {
 		color: darken($main-color, 5%);
