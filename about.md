@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Winturns
+title: About Winterns
 ---
 ## About us
 
@@ -9,6 +9,7 @@ title: About Winturns
 I am currently studying full time at Massey University Wellington where I am in my third year of industrial design. My particular areas of interest are in sustainability and user centered design.
 Alongside my academic work I am also an avid cyclist and cycle instuctor. 
 
+![tegan bio](img/tegan bio.jpeg)
 ### Tegan
 Kia Ora. 
 
