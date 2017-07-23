@@ -4,6 +4,7 @@ title: About Winturns
 ---
 ## About us
 
+[EP](img/Eleanor.jpg)
 ### Eleanor
 I am currently studying full time at Massey University Wellington where I am in my third year of industrial design. My particular areas of interest are in sustainability and user centered design.
 Alongside my academic work I am also an avid cyclist and cycle instuctor. 
