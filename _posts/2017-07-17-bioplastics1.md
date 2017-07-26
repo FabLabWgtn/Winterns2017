@@ -1,11 +1,11 @@
 ---
+layout: post
 title: Bioplastics 
 ---
 
 ## Starch
-
 The wooden mould drew moisture out the material and consequently the material dried too fast and cracked. 
-![cracked](img/27-7-2017/cracked.jpg)
+![cracked](img/27-7-2017/craked.jpeg)
 
 The material shrunk alot 
 ![shrinkage](img/27-7-2017/shrinkage.jpg)
@@ -19,3 +19,5 @@ The material shrunk alot
 ![jelly](img/27-7-2017/jelly.jpg)
 
 ![oven](img/27-7-2017/oven.jpg)
+
+ 
