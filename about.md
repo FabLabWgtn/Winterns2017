@@ -4,7 +4,7 @@ title: About Winterns
 ---
 ## About us
 
-![grouppic](Winternintro.jpg)
+![grouppic](img/Winternintro.jpg)
 
 ![eleanor](img/eleanor.jpg)
 ### Eleanor
