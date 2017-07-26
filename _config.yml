@@ -1,7 +1,7 @@
 # Site settings
 title: Winterns | Fab Lab
 description: "fabinterns"
-url: "https://fablabwgtn.github.io/winterns2017"
+url: "https://fablabwgtn.github.io/Winterns2017"
 author:
   name: "Eleanor" 
   name: "Tegan"
@@ -10,7 +10,7 @@ author:
   url: ""
 
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # /
 markdown: kramdown
 source: .
 destination: ./_site
