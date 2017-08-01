@@ -4,7 +4,7 @@ title: Recipes
 ---
 ## Recipes
 
-### 3rd Recipe Test:
+### 3rd Recipe Test (Altered Corn recipe from analysis of first two recipes):
 
 600mL WATER
 
@@ -32,7 +32,7 @@ title: Recipes
 
 3 grams wax shavings from CNC mill
 
-### 2nd Recipe Test:
+### 2nd Recipe Test (Corn recipe):
 
 700mL water
 
@@ -42,7 +42,7 @@ title: Recipes
 
 97 g Cornflour
 
-### 1st recipe test:
+### 1st recipe test (Agar recipe):
 
 240 ml of cold water
 
