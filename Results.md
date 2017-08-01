@@ -11,7 +11,19 @@ title: Results
 <td align="center" valign="center">
 Analysis elements
 <br />
-Caption text centered under the image.
+Shirnkage
+<br />
+Colour
+<br />
+Curlage
+<br />
+Hardness
+<br />
+Weight
+<br />
+Flexibility
+<br />
+Drying
 </td>
 
 <td align="center" valign="center">
