@@ -10,7 +10,7 @@ title: Results
 
 <td align="center" valign="center">
 Analysis elements
-<br />
+<br>
 Shirnkage
 <br />
 Colour
@@ -27,7 +27,13 @@ Drying
 </td>
 
 <td align="center" valign="center">
-Agar
+Agar Recipe
+<br />
+Caption text centered under the image.
+</td>
+
+<td align="center" valign="center">
+Cornstrach Recipe
 <br />
 Caption text centered under the image.
 </td>
