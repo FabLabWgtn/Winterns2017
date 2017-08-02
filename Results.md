@@ -14,5 +14,6 @@ title: Results
 | Weight | 19.5 grams post drying | 4 grams post drying | 2.5 grams post drying | 1.5 - 2.5 grams after drying | 19 grams | 16 grams |
 | Flexibility | Very flexible without breaking. Not stretchy | Very flexible but tears easily | Incredibly flexible but sticks to itself | Cracks on outside. Soft and flexible in the middle | Doesn't crack but resistant to flexing | Still quite flexible, cacked when touched after 24 hours |
 | Drying | Left over night then dried at 23 degrees for 72 hours. Needs more drying | As sample 1 | As sample 1 | Left overnight then dried at 23 degrees for 72 hours. Needs more drying | As sample 1, flipped after 24 hours | Left out to dry for all of the time others were in oven |
+{:.mbtablestyle}
 
 
