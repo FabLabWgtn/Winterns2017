@@ -9,21 +9,21 @@ title: Results
 <tr>
 
 <td align="left" valign="left">
-Analysis elements
-
-Shirnkage
-
-Colour
-
-Curlage
-
-Hardness
-
-Weight
-
-Flexibility
-
-Drying
+1. Analysis elements
+<br />
+2. Shirnkage
+<br />
+3. Colour
+<br />
+4. Curlage
+<br />
+5. Hardness
+<br />
+6. Weight
+<br />
+7. Flexibility
+<br />
+8. Drying
 </td>
 
 <td align="left" valign="left">
