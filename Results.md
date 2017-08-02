@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mylayout.html
 title: Results
 ---
 ## Results
