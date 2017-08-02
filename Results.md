@@ -4,7 +4,7 @@ title: Results
 ---
 ## Results
 
-<table width="500" border="1" cellpadding="5">
+<table width="750" border="1" cellpadding="5">
 
 <tr>
 
