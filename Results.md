@@ -8,13 +8,13 @@ title: Results
 
 <tr>
 
-<td align="center" valign="center">
+<td align="left" valign="left">
 Analysis elements
-<br>
+</tr>
 Shirnkage
-<br />
+</tr>
 Colour
-<br />
+</tr>
 Curlage
 <br />
 Hardness
@@ -26,13 +26,13 @@ Flexibility
 Drying
 </td>
 
-<td align="center" valign="center">
+<td align="left" valign="left">
 Agar Recipe
 <br />
 Caption text centered under the image.
 </td>
 
-<td align="center" valign="center">
+<td align="left" valign="left">
 Cornstrach Recipe
 <br />
 Caption text centered under the image.
