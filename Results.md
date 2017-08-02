@@ -12,7 +12,7 @@ title: Results
 Analysis elements
 <br />
 <br />
-1. Shirnkage
+1. Shrinkage
 <br />
 <br />
 2. Colour
@@ -36,13 +36,51 @@ Analysis elements
 <td align="left" valign="left">
 Agar Recipe
 <br />
-Caption text centered under the image.
+<br />
+1a.
+<br />
+<br />
+2a.
+<br />
+<br />
+3a.
+<br />
+<br />
+4a.
+<br />
+<br />
+5a.
+<br />
+<br />
+6a.
+<br />
+<br />
+7a.
 </td>
 
 <td align="left" valign="left">
 Cornstrach Recipe
 <br />
-Caption text centered under the image.
+<br />
+1b.
+<br />
+<br />
+2b.
+<br />
+<br />
+3b.
+<br />
+<br />
+4b.
+<br />
+<br />
+5b.
+<br />
+<br />
+6b.
+<br />
+<br />
+7b.
 </td>
 
 </tr>
