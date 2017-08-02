@@ -38,31 +38,38 @@ Agar Recipe
 <br />
 <br />
 1.a.i -  Massive. Original 56 x 65 mm shrunk to 40 x 50mm
-1.a.ii
+<br />
+1.a.ii - Minimal shrinkage
 <br />
 <br />
 2.a.i - Yellowed. Semi-opaque
-2.a.ii
+<br />
+2.a.ii - Reasonably clear, still yellowy hue
 <br />
 <br />
 3.a.i - Not a lot. Curled more at corners
-3.a.ii
+<br />
+3.a.ii - None until taken from mold
 <br />
 <br />
 4.a.i - Squishy. Harder on edges exposed to air
-4.a.ii
+<br />
+4.a.ii - Like jelly, quite sticky
 <br />
 <br />
 5.a.i - 19.5 grams post drying
-5.a.ii
+<br />
+5.a.ii - 4 grams post drying
 <br />
 <br />
 6.a.i - Very flexible without breaking. Not stretchy
-6.a.ii
+<br />
+6.a.ii - Very flexible but tears easily
 <br />
 <br />
 7.a.i - Left over night then dried at 23 degrees for 72 hours. Needs more drying
-7.a.ii
+<br />
+7.a.ii - As above
 </td>
 
 <td align="left" valign="left">
