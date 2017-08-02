@@ -45,3 +45,10 @@ a {
 		color: darken($main-color, 5%);
 	}
 }
+.mbtablestyle {
+        border-collapse: collapse;
+
+   > table, td, th {
+        border: 1px solid black;
+        }
+}
