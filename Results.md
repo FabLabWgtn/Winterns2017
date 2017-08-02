@@ -41,35 +41,49 @@ title: Results
 <br />
     ii - Minimal shrinkage
 <br />
+    iii
+<br />
 <br />
 2.a.i - Yellowed. Semi-opaque
 <br />
     ii - Reasonably clear, still yellowy hue
+<br />
+    iii
 <br />
 <br />
 3.a.i - Not a lot. Curled more at corners
 <br />
     ii - None until taken from mold
 <br />
+    iii
+<br />
 <br />
 4.a.i - Squishy. Harder on edges exposed to air
 <br />
     ii - Like jelly, quite sticky
+<br />
+    iii
 <br />
 <br />
 5.a.i - 19.5 grams post drying
 <br />
     ii - 4 grams post drying
 <br />
+    iii
+<br />
 <br />
 6.a.i - Very flexible without breaking. Not stretchy
 <br />
     ii - Very flexible but tears easily
 <br />
+    iii
+<br />
 <br />
 7.a.i - Left over night then dried at 23 degrees for 72 hours. Needs more drying
 <br />
     ii - As above
+<br />
+    iii
 </td>
 
 <td align="left" valign="left">
