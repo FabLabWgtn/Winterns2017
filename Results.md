@@ -9,7 +9,7 @@ title: Results
 <tr>
 
 <td align="left" valign="left">
-Analysis elements
+<u> Analysis Elements </u>
 <br />
 <br />
 1. Shrinkage
@@ -34,7 +34,7 @@ Analysis elements
 </td>
 
 <td align="left" valign="left">
-Agar Recipe
+<u> Agar Recipe </u>
 <br />
 <br />
 1.a.i -  Massive. Original 56 x 65 mm shrunk to 40 x 50mm
@@ -73,7 +73,7 @@ Agar Recipe
 </td>
 
 <td align="left" valign="left">
-Cornstrach Recipe
+<u> Cornstarch Recipe </u>
 <br />
 <br />
 1b.
