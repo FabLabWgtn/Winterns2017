@@ -6,7 +6,7 @@ title: Results
 
 
 | Analysis Elements | Agar sample 1 | Agar sample 2 | Agar sample 3 | Corn sample 1 | Corn sample 2 | Corn sample 3 |
-|------|-------|-------|-------|-------|-------|-------|
+|------|-------|-------|-------|-------|-------|------- :|
 | Shrinkage | Massive. Original 56 x 65 mm shrunk to 40 x 50mm | Minimal shrinkage | None | Unable to measure as samples are all of different sizes and shrinkage. Approx 10mm shrinkage with curlage | Originally 65 x 155mm, now 43.3 x 110 | Originally 65 x 155mm, now 41 x 101mm |
 | Colour | Yellowed. Semi-opaque | Reasonably clear, still yellowy hue | Very transparent | Originally opaque white, then yellowed and became more transparent | From white to yellowy and transparent | Similar to sample 2. Slightly more transparent |
 | Curlage | Not a lot. Curled more at corners | None until taken from mold | None until taken from mold | A lot, flat when molded. Also bowed in different directions | Very curly, came up at ends more | Curled a lot. Also cracked and curled along the cracks |
