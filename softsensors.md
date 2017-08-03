@@ -35,4 +35,24 @@ Made from polymeric foil with carbon black, Velostat is a conductive material th
 ![velostat](img/softsensors/velostat.jpg)
   
 ***
+  
+## Basic Sensors 
 
+### Button
+  
+### Pressure
+
+### Tilt
+
+### Flex
+
+### Squeeze
+  
+***
+  
+## Projects That use soft sensors
+  
+[Toe Tap](https://www.tumblr.com/blog/interaction-and-interface)
+  
+***
+  
