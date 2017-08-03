@@ -26,7 +26,7 @@ Wool spun with stainless steel in it.
 ### Foam
 ![foam](img/softsensors/foam.jpg)
   
-### Ripstop
+### Conductive Ripstop
 Conductive fabric woven with stainless steel.
 ![ripstop](img/softsensors/ripstop.jpg)
   
@@ -52,7 +52,9 @@ Made from polymeric foil with carbon black, Velostat is a conductive material th
   
 ## Projects That use soft sensors
   
-[Toe Tap](https://www.tumblr.com/blog/interaction-and-interface)
+[Toe Tap](https://www.tumblr.com/blog/interaction-and-interface)  
+
+Toe Tap has pressure sensors under the balls of the foot wich can sense if the users step is Pronated and will vibrate on the relevant side to remind them. In this way the user is able to train themselves into a more ballanced step.
   
 ***
   
