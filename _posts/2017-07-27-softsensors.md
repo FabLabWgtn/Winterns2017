@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bioplastics
+title: Soft Sensors
 intro: "We attended a Soft Sensors workshop"
 ---
 
