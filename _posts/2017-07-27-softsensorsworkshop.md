@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soft Sensors
+title: Soft Sensors workshop
 intro: "We attended a Soft Sensors workshop"
 ---
 
