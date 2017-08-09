@@ -5,6 +5,8 @@ title: About Winterns
 ## About us
 
 ![grouppic](img/Winternintro.jpg)
+We are the Winterns. Winterns is an internship project at Fab Lab Wgtn. We are working on making bio-plastics for lazer cutting and developing soft sensors.
+
 
 ![eleanor](img/eleanor.jpg)
 ### Eleanor
