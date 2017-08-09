@@ -15,8 +15,8 @@ title: Results
 | Drying | Straight into a 23 degree oven and dried for 72 hours | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 |
 {:.mbtablestyle}
 
-<br/>
- 
+  
+
 | Analysis Elements | Agar sample 1 | Agar sample 2 | Agar sample 3 | Corn sample 1 | Corn sample 2 | Corn sample 3 |
 |------|-------|-------|-------|-------|-------|------- :|
 | Shrinkage | Massive. Original 56 x 65 mm shrunk to 40 x 50mm | Minimal shrinkage | None | Unable to measure as samples are all of different sizes and shrinkage. Approx 10mm shrinkage with curlage | Originally 65 x 155mm, now 43.3 x 110 | Originally 65 x 155mm, now 41 x 101mm |
