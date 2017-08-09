@@ -6,8 +6,9 @@ intro: "Second bioplastics tests"
 
 ## Wood chips cornstarch bioplatics  
 ### secondary heading  
-[recipes](recipes)
-[results](results)
+[recipes](recipes)  
+  
+[results](results)  
   
 ![saw dust addition and tegan](img/bioplastics/round2/saw dust addition and tegan.jpg)
 

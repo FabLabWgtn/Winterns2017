@@ -7,6 +7,7 @@ intro: "First bioplastics tests"
 ## Agar
 ### 1st recipe test (Agar recipe)  
 [recipes](recipes)  
+  
 [results](results)  
   
 ![foam](img/bioplastics/round1/foam.jpeg)
@@ -20,6 +21,7 @@ intro: "First bioplastics tests"
 ## Starch
 ### 2nd recipe test (cornstarch recipe) 
 [recipes](recipes)  
+  
 [results](results)  
   
 The wooden mould drew moisture out the material and consequently the material dried too fast and cracked. 
