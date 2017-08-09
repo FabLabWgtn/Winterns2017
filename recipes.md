@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recipes
+title: Bio-Plastic Recipes
 ---
 ## Recipes
 
