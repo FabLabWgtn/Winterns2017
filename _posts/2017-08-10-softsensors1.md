@@ -3,7 +3,9 @@ layout: post
 title: Soft Sensors audino trial
 intro: "trialing the soft sensors with the audino"
 ---
-
+  
+Looking into how audino can be used with soft sensors
+  
 ## Crush sensor.  
 Originally this sensor was going to be a flex sensor but seems to make a better crush sensor. need to figure out if it is digital or analog output.
   
