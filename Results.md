@@ -4,9 +4,22 @@ title: Bio-plastic Results
 ---
 ## Results
 
+| Analysis Elements | Mix 2: Sample 2.1 | Mix 2: Sample 2.2 | Mix 2: Sample 2.3 | Mix 2: Sample 2.4 | Mix 2: Sample 2.5 | Mix 2: Sample 2.6 |
+|------|-------|-------|-------|-------|-------|-------|--------- :|
+| Shrinkage | Did not shrink inwards, shrinkage was from cracks, no shrinkage from sides | No shrinking from the sides of the mold, shrinking from the cracks formed | Shrinkage where cracks formed | No shrinkage, still fully in tact | Tried to shrink inwards but got stuck, has cracked instead | Shrunkage from edges not spread to, also shrinking from edges |
+| Colour | Pale brown, darker brown when put in molds | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 |
+| Curlage | No curlage, woohoo!! Due to being weighed down by molds | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 |
+| Hardness | Where dry, the samples are hard and prone to cracking | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 |
+| Weight | From 55.5 grams to 12.5 grams when dry. 43 gram loss | From 44.5 grams to 11 grams when dry. 33.5 gram loss | From From 65.5 grams to 33.5 grams, not completely dry. 32 gram loss | From 70 grams to 69 grams when demolded, not dry at all. 1 grams loss | Not weighed, inconclusive | From 100.5 grams to 24 grams when dry. 76.5 gram loss | 
+| Flexibility | None in parts where condensed, just cracks | As Sample 2.1 | Flexible as not dried | Very flexible as not dry at all, like jelly | Flexible ind dry parts, breaking apart in parts where not dry | No flexibility, cracking when bent | 
+| Drying | Straight into a 23 degree oven, dried for 72 hours | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 |
+{:.mbtablestyle}
+
+
+
 | Analysis Elements | Mix 1: Sample 1 | Mix 1: Sample 2 | Mix 1: Sample 3 | Mix 2: Sample 1 | Mix 2: Sample 2 | Mix 2: Sample 3 | Mix 3: Sample 1 |
 |------|-------|-------|-------|-------|-------|-------|--------- :|
-| Shrinkage | A fair amount, as it shrunk it cracked a lot into pieces | Massive amount of shrinkage, breaking apart, possibley due to the water vs wood content | Huge shrinkage both horizontally and vertically | Fair amount of shrinkage. Minimal cracking | Small amount of shrinkage and surface cracking but no cracks right through | Less shrinkage down than in, no cracking | Shrunk down rather than in, some cracking |
+| Shrinkage | A fair amount, as it shrunk it cracked a lot into pieces | Massive amount of shrinkage, breaking apart, possibly due to the water vs wood content | Huge shrinkage both horizontally and vertically | Fair amount of shrinkage. Minimal cracking | Small amount of shrinkage and surface cracking but no cracks right through | Less shrinkage down than in, no cracking | Shrunk down rather than in, some cracking |
 | Colour | Light brown due to saw dust, colour lightened as drying | As other | As other | Darker brown colouration, higher wood content, colour lightened as drying | As other | As other | Same colour as when put in sample, light blue |
 | Curlage | So much that when it curled it cracked and broke apart, this could be due to the thin consistency | A lot of curlage, curled around itself and the cracks in it | Not as much curlage, possibly due to shape of mold | Not as much shrinkage across this mix due to water content. Curled at ends more than edges | Bowed a lot, max curlage of mix | Not as much curlage, again, possibly due to mold shape | Nearly no curlage, held shape well | 
 | Hardness | Very hard, cracks when bent | As other | As other | Hardness comparitive to cardboard | Harder due to thinkness, distinctive "donk" noise | As other | 
