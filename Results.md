@@ -4,7 +4,7 @@ title: Bio-plastic Results
 ---
 ## Results
 
-# Wooden Mix 2 further testing
+ Wooden Mix 2 further testing
   
 | Analysis Elements | Mix 2: Sample 2.1 | Mix 2: Sample 2.2 | Mix 2: Sample 2.3 | Mix 2: Sample 2.4 | Mix 2: Sample 2.5 | Mix 2: Sample 2.6 |
 |------|-------|-------|-------|-------|-------|-------|--------- :|
@@ -17,7 +17,7 @@ title: Bio-plastic Results
 | Drying | Straight into a 23 degree oven, dried for 72 hours | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 |
 {:.mbtablestyle}
   
-# Wooden Mix 1 and 2
+ Wooden Mix 1 and 2
   
 | Analysis Elements | Mix 1: Sample 1 | Mix 1: Sample 2 | Mix 1: Sample 3 | Mix 2: Sample 1 | Mix 2: Sample 2 | Mix 2: Sample 3 | Mix 3: Sample 1 |
 |------|-------|-------|-------|-------|-------|-------|--------- :|
@@ -30,7 +30,7 @@ title: Bio-plastic Results
 | Drying | Straight into a 23 degree oven and dried for 72 hours | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 |
 {:.mbtablestyle}
   
-# Agar and Corn Recipe
+ Agar and Corn Recipe
   
 | Analysis Elements | Agar sample 1 | Agar sample 2 | Agar sample 3 | Corn sample 1 | Corn sample 2 | Corn sample 3 |
 |------|-------|-------|-------|-------|-------|------- :|
