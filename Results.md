@@ -15,7 +15,7 @@ title: Bio-plastic Results
 | Drying | Straight into a 23 degree oven, dried for 72 hours | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 |
 {:.mbtablestyle}
   
-  
+##
   
 | Analysis Elements | Mix 1: Sample 1 | Mix 1: Sample 2 | Mix 1: Sample 3 | Mix 2: Sample 1 | Mix 2: Sample 2 | Mix 2: Sample 3 | Mix 3: Sample 1 |
 |------|-------|-------|-------|-------|-------|-------|--------- :|
@@ -28,7 +28,7 @@ title: Bio-plastic Results
 | Drying | Straight into a 23 degree oven and dried for 72 hours | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 |
 {:.mbtablestyle}
   
-  
+##
   
 | Analysis Elements | Agar sample 1 | Agar sample 2 | Agar sample 3 | Corn sample 1 | Corn sample 2 | Corn sample 3 |
 |------|-------|-------|-------|-------|-------|------- :|
