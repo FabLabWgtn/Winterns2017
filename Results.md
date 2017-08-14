@@ -14,9 +14,9 @@ title: Bio-plastic Results
 | Flexibility | None in parts where condensed, just cracks | As Sample 2.1 | Flexible as not dried | Very flexible as not dry at all, like jelly | Flexible ind dry parts, breaking apart in parts where not dry | No flexibility, cracking when bent | 
 | Drying | Straight into a 23 degree oven, dried for 72 hours | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 | As sample 2.1 |
 {:.mbtablestyle}
-
-
-
+  
+  
+  
 | Analysis Elements | Mix 1: Sample 1 | Mix 1: Sample 2 | Mix 1: Sample 3 | Mix 2: Sample 1 | Mix 2: Sample 2 | Mix 2: Sample 3 | Mix 3: Sample 1 |
 |------|-------|-------|-------|-------|-------|-------|--------- :|
 | Shrinkage | A fair amount, as it shrunk it cracked a lot into pieces | Massive amount of shrinkage, breaking apart, possibly due to the water vs wood content | Huge shrinkage both horizontally and vertically | Fair amount of shrinkage. Minimal cracking | Small amount of shrinkage and surface cracking but no cracks right through | Less shrinkage down than in, no cracking | Shrunk down rather than in, some cracking |
@@ -27,9 +27,9 @@ title: Bio-plastic Results
 | Flexibility | Not a lot as tends to crack when flexed | As other | As other | Minimal flexibility but has elasticity and springs back to shape | Nearly no movement in the sample | As Mix 2: Sample 2 | Flexible but prone to cracking where exposed to the air |
 | Drying | Straight into a 23 degree oven and dried for 72 hours | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 | As Mix 1: Sample 1 |
 {:.mbtablestyle}
-
   
-
+  
+  
 | Analysis Elements | Agar sample 1 | Agar sample 2 | Agar sample 3 | Corn sample 1 | Corn sample 2 | Corn sample 3 |
 |------|-------|-------|-------|-------|-------|------- :|
 | Shrinkage | Massive. Original 56 x 65 mm shrunk to 40 x 50mm | Minimal shrinkage | None | Unable to measure as samples are all of different sizes and shrinkage. Approx 10mm shrinkage with curlage | Originally 65 x 155mm, now 43.3 x 110 | Originally 65 x 155mm, now 41 x 101mm |
