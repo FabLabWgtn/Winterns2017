@@ -29,7 +29,8 @@ Loop threads/ wires through each other and solder/ crimp to self.
 ### bibliographic links
 
 Images From:
-[connections](http://www.kobakant.at/DIY/?p=1272)
+  
+[wire connections](http://www.kobakant.at/DIY/?p=1272)
 
 ### useful links
 
