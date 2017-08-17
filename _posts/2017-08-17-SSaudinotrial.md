@@ -3,9 +3,6 @@ layout: post
 title: Soft Sensors Audino Trial
 intro: "Trialling existing soft sensors with Audino to determine if they produce digital or analogue signals and the plan thereafter"
 ---
-
-# Soft Sensor Audino trials
-  
 ## Audino and analogue Pom-pom 
   
 Audino hooked up to Wendy's pom-pom made with conductive thread. When pressed the LED lights up.
