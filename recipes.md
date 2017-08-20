@@ -4,6 +4,18 @@ title: Bio-Plastic Recipes
 ---
 ## Recipes
 
+## Custard Recipe Test (Using left over ingredients)
+
+25mL Glycerol
+
+100mL Vinegar (white)
+
+600mL Water
+
+5 grams Agar
+
+45.5 grams Custard Powder
+
 ### 3rd Recipe Test (Altered Corn recipe from analysis of first two recipes):
 
 600mL WATER
