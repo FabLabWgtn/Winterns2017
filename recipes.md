@@ -4,6 +4,7 @@ title: Bio-Plastic Recipes
 ---
 ## Recipes
 
+---
 
 ### Custard Recipe Test (Using left over ingredients)
 
@@ -24,6 +25,7 @@ NOTE:
 
 -Also because it is custard powder it will have a weird yellow tinge. Super weird looking and not that appealing. We are lookin at just taking away the custard powder option and just sticking with cornflour.
 
+---
 ### 3rd Recipe Test (Altered Corn recipe from analysis of first two recipes):
 
 600mL WATER
