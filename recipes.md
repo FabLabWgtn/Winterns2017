@@ -36,6 +36,8 @@ NOTE:
 
 97g cornflour
 
+***
+
 
 
 ### Mix 1 - 22:1 ratio
@@ -46,7 +48,7 @@ NOTE:
 
 NOTE:
 -Might have worked better if we had soaked the wood prior.This recipe cracked a lot and became very delicate.
-
+***
 ### Mix 2 - 111:9 ratio
 
 555 grams bioplastic mix
@@ -55,6 +57,8 @@ NOTE:
 
 NOTE:
 -A lot stronger,however is more of a wood composite then a bio plastic. Our best sample for this one was when we clamped two halves together then let dry in oven then about a day later opened it and let it dry with one side off ( in the oven on low for 2days, flipping mid way to dry evenly) this process made it keep form better and dry flat.
+
+***
 
 ### Mix 3 - 22:3 ratio
 
@@ -66,6 +70,7 @@ Method: Make a bioplastic mix and add your wax shavings, pour into a mold. Will 
 
 NOTE:
 -Super weird material, not worth trialing as it did'nt show that much potential. Just made the wax shavings stick together.
+***
 
 ### 2nd Recipe Test (Corn recipe):
 
@@ -80,6 +85,8 @@ NOTE:
 NOTE: 
 -Some pieces harden quicker then others. Still hasn't completely dried. More potential in testing this recipe than the first. With some tweaking it could potentially become a lot more workable.
 
+***
+
 ### 1st recipe test (Agar recipe):
 
 240 ml of cold water
@@ -91,4 +98,5 @@ NOTE:
 NOTE: 
 -Is a very wet mixture and did'nt dry properly.Broke easily. In this recipe we did use alot of agar so the mixture became very soft.
 
+***
 
