@@ -39,8 +39,6 @@ NOTE:
 
 ***
 
-
-
 ### Mix 1 - 22:1 ratio
 
 220 grams biosplastic mix
