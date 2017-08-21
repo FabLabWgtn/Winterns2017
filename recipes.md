@@ -26,6 +26,7 @@ NOTE:
 -Also because it is custard powder it will have a weird yellow tinge. Super weird looking and not that appealing. We are lookin at just taking away the custard powder option and just sticking with cornflour.
 
 ***
+
 ### 3rd Recipe Test (Altered Corn recipe from analysis of first two recipes):
 
 600mL WATER
@@ -48,7 +49,9 @@ NOTE:
 
 NOTE:
 -Might have worked better if we had soaked the wood prior.This recipe cracked a lot and became very delicate.
+
 ***
+
 ### Mix 2 - 111:9 ratio
 
 555 grams bioplastic mix
@@ -70,6 +73,7 @@ Method: Make a bioplastic mix and add your wax shavings, pour into a mold. Will 
 
 NOTE:
 -Super weird material, not worth trialing as it did'nt show that much potential. Just made the wax shavings stick together.
+
 ***
 
 ### 2nd Recipe Test (Corn recipe):
