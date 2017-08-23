@@ -6,6 +6,22 @@ title: Bio-Plastic Recipes
 
 ***
 
+### Cornflour and Agar Test ( half was used with guar gum)
+
+25ml glycerol
+
+100ml vinegar
+
+600 ml water
+
+45.5 grams cornflour
+
+5 grams agar
+
+Method : dissolve 300ml of cold water with sieved cornflour, then dissolve the agar in 300ml of hot water, combine. Add all other ingredients ( half of our recipe we put guar gum in, 3 grams in total)into and put it on the stove on a medium to high heat, stir continuisely. Once boiled , keep on stove for 10mins then pour into molds.
+
+***
+
 ### Custard Recipe Test (Using left over ingredients)
 
 25mL Glycerol
@@ -18,12 +34,16 @@ title: Bio-Plastic Recipes
 
 45.5 grams Custard Powder
 
-Method: Measure out all ingredients and add one by one to a pot. Simmer for on a low heat for 2mins then gradually move it up to a high heat. You will know when the mixture is ready when everything looks dissolved and semi translucent. This recipe doesn't have to much thickness so don't worry if its not like super gluggy, it'll dry within a few minutes and develop a thickness. Pour into pre oiled molds and let dry for up to 2 days , you can try air drying or in the oven at 20 degrees - or + 10 degrees.
+Method: use 400ml of water and pour into a pot, add agar, vinegar,glycerol. Put on the  medium to high heat and wait till it overflows with lots of bubbles do this for about 10mins.Now dissolve custard powder in cold water (200ml) add to the pot. Simmer until combined and has started to boil then pour into molds. Let them dry naturally for a day then put into oven on low (about 20 degrees) and let it dry.
 
 NOTE: 
 -We recommend you dissolve the agar ( in hot water)and custard powder (in cold water) seperately before combining together and with the rest of the ingredients.
 
 -Also because it is custard powder it will have a weird yellow tinge. Super weird looking and not that appealing. We are lookin at just taking away the custard powder option and just sticking with cornflour.
+
+![custardresult](img/custard.jpg)
+
+^ final result for custard actual turned out really well. Dosen't stick together and dosen't break when touched.
 
 ***
 
