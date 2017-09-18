@@ -3,9 +3,20 @@ layout: page
 title: Soft Sensors/ Circuit Techniques
 ---
 ## Common Stitches
-### Running Stitch
-### Back Stitch
+  
+### Running Stitch and Back Stitch  
+![stitches/backstitch](img/softsensors/stitches/backstitch.jpg)
+<iframe width="854" height="480" src="https://www.youtube.com/embed/rZ_wVC84UmM" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/W4nhj8kMpAI" frameborder="0" allowfullscreen></iframe>
+  
+### Couching  
+![stitches/couching](img/softsensors/stitches/couching.jpg)
+<iframe width="854" height="480" src="https://www.youtube.com/embed/4X4LC8FGAsM" frameborder="0" allowfullscreen></iframe>
+  
 ### Blanket Stitch
+![stitches/blanketstitch](img/softsensors/stitches/blanketstitch.jpg)
+<iframe width="854" height="480" src="https://www.youtube.com/embed/Wcf9iJHST94" frameborder="0" allowfullscreen></iframe>
+  
   
   
 ## Wire
