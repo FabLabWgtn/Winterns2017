@@ -22,6 +22,7 @@ title: Soft Sensors/ Circuit Techniques
 ## Wire
 soldering wires into sewable loops.
   
+![wireconnect/wire](img/softsensors/wireconnect/wire.png)
   
 ## Hard Component's
 Attaching a hard component using conductive thread.
