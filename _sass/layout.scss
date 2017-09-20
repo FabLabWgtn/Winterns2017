@@ -4,7 +4,7 @@
 
 #dropmenu {
  ul li {
-    display: block;
+    display: inline-block;
     position: relative;
     float: left;
 }
@@ -13,17 +13,15 @@ li ul {
     display: none;
 }
 ul li a {
-    display: block;
+    display: inline-block;
+    background-color: white;
     text-decoration: none;
-    color: #ffffff;
-    border-top: 1px solid #ffffff;
     padding: 5px 15px 5px 15px;
-    background: #1e7c9a;
     margin-left: 1px;
     white-space: nowrap;
 }
 ul li a:hover {
-background: #3b3b3b;
+background-color: #3b3b3b;
 }
 li:hover ul {
     display: block;
