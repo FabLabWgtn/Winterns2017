@@ -3,17 +3,23 @@
 /* Navigation */
 
 #dropmenu {
- ul li {
+ 
+    li a {
+        background-color: red;
+        color: antiquewhite;
+    }
+    
+    ul li {
     display: block;
     background-color: yellow;
-    padding: 10px 15px 10px 15px;
 }
     
 li ul {
-    display: none;
+    display: inline-block;
+    
 }
 ul li a {
-    display: inline-block;
+    display: block;
     background-color: purple;
     color: aqua;
     text-decoration: none;
