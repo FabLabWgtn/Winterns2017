@@ -5,23 +5,22 @@
 #dropmenu {
  ul li {
     display: inline-block;
-    position: relative;
-    float: left;
+    background-color: yellow;
+    padding: 10px 15px 10px 15px;
 }
     
 li ul {
     display: none;
 }
 ul li a {
-    display: inline-block;
-    background-color: white;
+    display: block;
+    background-color: purple;
     text-decoration: none;
-    padding: 5px 15px 5px 15px;
-    margin-left: 1px;
-    white-space: nowrap;
+    padding: 10px 15px 10px 15px;
+    margin-left:20px;
 }
 ul li a:hover {
-background-color: #3b3b3b;
+background-color: greenyellow;
 }
 li:hover ul {
     display: block;
@@ -31,7 +30,7 @@ li:hover li {
     float: none;
     font-size: 11px;
 }
-li:hover a { background: #3b3b3b; }
+li:hover a { background: white; }
 li:hover li a:hover {
     background: #1e7c9a;
 }
