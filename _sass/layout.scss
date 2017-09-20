@@ -4,7 +4,7 @@
 
 #dropmenu {
  ul li {
-    display: inline-block;
+    display: block;
     background-color: yellow;
     padding: 10px 15px 10px 15px;
 }
@@ -13,8 +13,9 @@ li ul {
     display: none;
 }
 ul li a {
-    display: block;
+    display: inline-block;
     background-color: purple;
+    color: aqua;
     text-decoration: none;
     padding: 10px 15px 10px 15px;
     margin-left:20px;
