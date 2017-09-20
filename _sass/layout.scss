@@ -3,10 +3,9 @@
 /* Navigation */
 
 #dropmenu {
- 
-    li a {
-        background-color: red;
-        color: antiquewhite;
+    
+    a {display: inline-block;
+    color: antiquewhite;
     }
     
     ul li {
