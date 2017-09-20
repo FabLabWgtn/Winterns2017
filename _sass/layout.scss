@@ -4,8 +4,8 @@
 
 #dropmenu {
     
-    a {display: inline-block;
-    color: antiquewhite;
+    a {display: inline;
+    color: purple;
     }
     
     ul li {
@@ -23,7 +23,6 @@ ul li a {
     color: aqua;
     text-decoration: none;
     padding: 10px 15px 10px 15px;
-    margin-left:20px;
 }
 ul li a:hover {
 background-color: greenyellow;
