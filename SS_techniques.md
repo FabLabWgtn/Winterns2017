@@ -26,7 +26,7 @@ soldering wires into sewable loops.
   
 ## Hard Component's
 Attaching a hard component using conductive thread.
-  
+![softcircuit/hardcomponent](img/softsensors/softcircuit/hardcomponent.jpg)
   
 ## Temporary connections
 Temporary connections between wire and conductive thread using tube beads.
@@ -34,11 +34,15 @@ Temporary connections between wire and conductive thread using tube beads.
   
 ## Joining Conductive Thread
 Joining conductive thread using couching techniques
-  
+![softcircuit/threadconnect](img/softsensors/softcircuit/threadconnect.jpg)
   
 ## Switches
 ### Hook and Eye's
+  
 ### Domes
+![softcircuit/maledome](img/softsensors/softcircuit/maledome.jpg)
+![softcircuit/femaledome](img/softsensors/softcircuit/femaledome.jpg)
+  
 ### Velcro
   
   
