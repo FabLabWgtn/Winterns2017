@@ -1,0 +1,40 @@
+# Site settings
+title: Winterns | Fab Lab
+description: "fabinterns"
+url: "http://127.0.0.1:4000/"
+author:
+  name: "Eleanor" 
+  name: "Tegan"
+  name: "Kimi"
+  email: ""
+  url: ""
+
+# Build settings
+baseurl: / # /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false

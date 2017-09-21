@@ -2,43 +2,53 @@
 
 /* Navigation */
 
+    div.bar {
+
+    }
+
 #dropmenu {
+   
+        padding: 0 1.5rem;
+    height: 41px;
+    background-color: white;
     
-    a {display: inline;
-    color: purple;
+    // styles top menu
+    li.topmenu {
+        float: left;
+        list-style-type: none;
+        background-color: white;
+        padding: 10px 15px 10px 15px;
+        
     }
     
-    ul li {
-    display: block;
-    background-color: yellow;
-}
+    // styles second layer hover box
+    ul li a {
+        display: block;
+        padding: 10px 15px 10px 15px;
+    }
     
-li ul {
-    display: inline-block;
-    
-}
-ul li a {
-    display: block;
-    background-color: purple;
-    color: aqua;
+    //hides second layer when not hovering
+   li ul {
+    display: none;
+    }
+  
+   // show second layer when hovering
+    li:hover ul {
+        display: block;
+        position: absolute;
+    }
+   
+    //styles second layer
+    li:hover a { background: white;
     text-decoration: none;
-    padding: 10px 15px 10px 15px;
-}
-ul li a:hover {
-background-color: greenyellow;
-}
-li:hover ul {
-    display: block;
-    position: absolute;
-}
-li:hover li {
-    float: none;
-    font-size: 11px;
-}
-li:hover a { background: white; }
-li:hover li a:hover {
+    color: purple;
+    }
+   
+    // styles second layer hover
+    li:hover li a:hover {
     background: #1e7c9a;
-}
+    }
+   
 }
 
 
